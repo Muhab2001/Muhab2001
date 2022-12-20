@@ -19,7 +19,6 @@ Here are my profile stats at the moment
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=exfil-frontend&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=exfil&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=express-apis&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 🤖 Artificial Intelligence and Data Science Projects
 ---
