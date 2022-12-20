@@ -1,5 +1,5 @@
 ### Hi there, I am Muhab 👋
-I am Muhab Abubaker a Software Engineering Student at KFUPM. I thrive everyday to broaden my technical expertise!
+I am Muhab Abubaker, a Software Engineering Student at KFUPM. I thrive everyday to broaden my technical expertise!
 
 ## My Interests
 I am not gonna lie, I am not interested in anything specific, I try and enjoy everything at the moment :-)
