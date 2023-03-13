@@ -24,12 +24,12 @@ Here are my profile stats at the moment
 🤖 Artificial Intelligence and Data Science Projects
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=store-performance-analysis&theme=tokyonight)](https://github.com/Muhab2001/store-performance-analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=pneumonia-xray-classification&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=pneumonia-xray-classification&theme=tokyonight)](https://github.com/Muhab2001/pneumonia-xray-classification)
 
 📱 Mobile Application projects
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=mynotes&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=insta_clone&theme=tokyonight)](https://github.com/Muhab2001/pneumonia-xray-classification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=mynotes&theme=tokyonight)](https://github.com/Muhab2001/mynotes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=insta_clone&theme=tokyonight)](https://github.com/Muhab2001/insta_clone)
 
 <!--
 **Muhab2001/Muhab2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
