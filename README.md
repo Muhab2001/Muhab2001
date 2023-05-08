@@ -2,7 +2,10 @@
 I am Muhab Abubaker, a Software Engineering Student at KFUPM. I thrive everyday to broaden my technical expertise!
 
 ## My Interests
-I am not gonna lie, I am not interested in anything specific, I try and enjoy everything at the moment :-)
+ - Full stack web development
+ - Artificial Intelligence & Machine Learning
+ - Mobile applications
+ - System programming in Rust
 
 Here are my profile stats at the moment
 ---
