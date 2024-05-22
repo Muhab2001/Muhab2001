@@ -27,7 +27,7 @@ Here are my profile stats at the moment
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=store-performance-analysis&theme=tokyonight)](https://github.com/Muhab2001/store-performance-analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=pneumonia-xray-classification&theme=tokyonight)](https://github.com/Muhab2001/pneumonia-xray-classification)
-[!Readme Card](https://github.com/Muhab2001/mental-disorder-classifier)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Muhab2001&repo=mental-disorder-classifier&theme=tokyonight)](https://github.com/Muhab2001/mental-disorder-classifier)
 
 📱 Mobile Application projects
 ---
